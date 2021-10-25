@@ -1,0 +1,23 @@
+[33mcommit a78acfcf1b74464ec6e7b3ed12fe9017d3df4017[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/test2[m[33m, [m[1;31morigin/feature[m[33m, [m[1;32mtest2[m[33m, [m[1;32mfeature[m[33m, [m[1;32mcheckout[m[33m)[m
+Author: rajnish <rajnish@gmail.com>
+Date:   Mon Oct 25 11:25:46 2021 +0000
+
+    feature changes
+
+[33mcommit 0e135b72dd5ab589570b8fe66ed605cce4c62378[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: rajnish <rajnish@gmail.com>
+Date:   Mon Oct 25 10:06:50 2021 +0000
+
+    test
+
+[33mcommit 2b4189b180fb9bda65092e3a7d22654d14008d22[m
+Author: root <root@ip-172-31-27-157.us-east-2.compute.internal>
+Date:   Mon Oct 25 09:39:07 2021 +0000
+
+    this is second update
+
+[33mcommit 6e59be279c032c5070da4d1bf8d9f6c0cb3eca59[m
+Author: root <root@ip-172-31-27-157.us-east-2.compute.internal>
+Date:   Mon Oct 25 09:17:12 2021 +0000
+
+    my first commit
